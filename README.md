@@ -10,8 +10,3 @@ by Ray Khorsandi
 | Recommendations | n/a | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Exercise_Classifier_nnLinear.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Solution_Classifier_nnLinear.ipynb) |
 | Ensemble Methods | n/a | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Exercise_PyTorch_Dataset_Dataloader.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Solution_PyTorch_Dataset_Dataloader.ipynb) |
 | Time Series Data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/demos/Demo_PyTorch_Lightning.ipynb) | n/a | n/a |
-(https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/demos/Demo_Sequence_Classification.ipynb) | n/a | n/a |
-
-
-
-
